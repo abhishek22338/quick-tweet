@@ -3,7 +3,7 @@
   
 </p>
 
-# Twitter Clone
+# Quick chat
 ![image](https://github.com/VipinDevelops/twitter-clone/assets/99081689/d8d9f3e8-4ae0-48c2-a9eb-da31274a9ab5)
 
 
@@ -58,14 +58,12 @@ npm run dev
 
 - Next.js
 - Prisma
-- PostgreSQL
+- Mongodb
 - Tailwind CSS
 
 ## Contact
 
-- Email: VipinChaudhary@gmail.com
-- Twitter: [VipinDevelops](https://twitter.com/VipinDevelops)
-- LinkedIn: [VipinDevelops](https://www.linkedin.com/in/vipindevelops/)
+- Email: sabhishekyadav0888@gmail.com
 
 Feel free to reach out for questions, feedback, or collaboration.
 
